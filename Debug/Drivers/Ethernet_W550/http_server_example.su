@@ -1,0 +1,8 @@
+../Drivers/CMSIS/Include/core_cm4.h:1938:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+../Drivers/Ethernet_W550/http_server_example.c:61:6:add_message_to_history	32	static
+../Drivers/Ethernet_W550/http_server_example.c:241:6:httpServer_setup	8	static
+../Drivers/Ethernet_W550/http_server_example.c:251:6:udpServer_setup	16	static
+../Drivers/Ethernet_W550/http_server_example.c:265:6:udpServerRun	24	static
+../Drivers/Ethernet_W550/http_server_example.c:319:6:httpServerRun	16	static
+../Drivers/Ethernet_W550/http_server_example.c:328:9:predefined_get_cgi_processor	392	static
+../Drivers/Ethernet_W550/http_server_example.c:442:9:predefined_set_cgi_processor	344	static
