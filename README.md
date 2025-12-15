@@ -80,7 +80,7 @@ Project ini adalah tutorial untuk menghubungkan **STM32F401 Development Board** 
 
 Refer to the wiring schematic diagram below for visual reference:
 
-![Wiring Schematic](img/Schematic.jpg)
+![Wiring Schematic](img/schematic.jpg)
 
 ### **Important Notes:**
 
@@ -298,17 +298,17 @@ Reference screenshots showing successful testing results:
 
 **DHCP Configuration Test:**
 
-![DHCP Test](__img/ip_dhcp.jpg__)
+![DHCP Test](img/ip_dhcp.png)
 
 **Packet Sender Communication Test:**
 
-![Packet Sender](__img/packet_sender.jpg__)
+![Packet Sender](img/packet_sender.jpg)
 
 **Test Results:**
 
-![Result 1](__img/result_1.jpg__)
-![Result 2](__img/result_2.jpg__)
-![Result 3](__img/result_3.jpg__)
+![Result 1](img/result_1.png)
+![Result 2](img/result_2.png)
+![Result 3](img/result_3.png)
 
 ---
 
